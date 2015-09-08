@@ -1,7 +1,12 @@
 Rails.application.routes.draw do
+   get '/about' => 'pages#about'
+   get '/mail4charity' => 'pages#mail4charity'
   root 'pages#home'
-  get '/about' => 'pages#about'
-  get '/mail4charity' => 'pages#mail4charity'
+
+
+
+ 
+        layout_improvements
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

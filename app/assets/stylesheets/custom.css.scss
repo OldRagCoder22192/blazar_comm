@@ -1,0 +1,38 @@
+/*This is where all of the stylistic pieces will go. I used a lot of gradients per request du David and Jay and their
+style ideas. A lot of the gradients were pulled from ones they liked on http://uigradients.com/# and edited to match
+the logo colors. David would like to avoid the orange even though it's a brand color, so I stuck with primarily
+the lighter colors from the logo and matched them to thinks like almond and creme colors to appease his color hatred. */
+.navbar {
+
+  background: -webkit-linear-gradient(90deg, #544E45 10%, #454340 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #544E45 10%, #454340 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #544E45 10%, #454340 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #544E45 10%, #454340 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #544E45 10%, #454340 90%); /* W3C */
+            
+}
+
+body {
+  background: -webkit-linear-gradient(90deg, #FAB568  10%, blanchedalmond 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #FAB568  10%, blanchedalmond 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #FAB568  10%, blanchedalmond 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #FAB568  10%, blanchedalmond 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #FAB568  10%, blanchedalmond 90%); /* W3C */
+  
+
+}
+
+.telephone {
+  color: #DA551D;
+}
+
+.monda {
+    font-family:'Monda', Cambria;
+}
+.indent {
+  text-indent: 50px;
+}
+.top_space {
+  margin-top: 40px;
+
+}
