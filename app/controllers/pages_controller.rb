@@ -3,4 +3,6 @@ class PagesController < ApplicationController
     end
     def about
     end
+    def mail4charity
+    end
 end
