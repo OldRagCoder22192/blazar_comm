@@ -36,3 +36,32 @@ body {
   margin-top: 40px;
 
 }
+
+#mail4charity {
+  background: -webkit-linear-gradient(90deg, blanchedalmond  10%, #EA80B0 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, blanchedalmond  10%, #EA80B0 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, blanchedalmond  10%, #EA80B0 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, blanchedalmond  10%, #EA80B0 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, blanchedalmond  10%, #EA80B0 90%); /* W3C */
+}
+
+.breast_cancer_div {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  -moz-box-shadow:inset 0px 39px 0px -24px #A69CA0;
+  -webkit-box-shadow:inset 0px 39px 0px -24px #A69CA0;
+  box-shadow:inset 0px 39px 0px -24px #A69CA0;
+  background-color:#A69CA0;
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  border-radius:4px;
+  border:1px solid #A69CA0;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:15px;
+  padding:6px 15px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #A69CA0;
+}
