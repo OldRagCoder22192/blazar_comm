@@ -7,4 +7,6 @@ class PagesController < ApplicationController
     end
     def blog
     end
+    def post1
+    end
 end

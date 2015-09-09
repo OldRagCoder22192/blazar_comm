@@ -2,6 +2,7 @@ Rails.application.routes.draw do
    get '/about' => 'pages#about'
    get '/mail4charity' => 'pages#mail4charity'
    get '/blog' => 'pages#blog'
+   get '/post1' => 'pages#post1'
   root 'pages#home'
 
 
