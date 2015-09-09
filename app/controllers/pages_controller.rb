@@ -5,4 +5,6 @@ class PagesController < ApplicationController
     end
     def mail4charity
     end
+    def blog
+    end
 end
