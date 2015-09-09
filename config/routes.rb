@@ -5,6 +5,18 @@ Rails.application.routes.draw do
    get '/post1' => 'pages#post1'
    get '/post2' => 'pages#post2'
    get '/post3' => 'pages#post3'
+   get '/billinginvoicing' => 'pages#billinginvoicing'
+   get '/directmailmarketing' => 'pages#directmailmarketing'
+   get '/flexdocs' => 'pages#flexdocs'
+   get '/flexmail' => 'pages#flexmail'
+   get '/flexstream' => 'pages#flexstream'
+   get '/foldersinserters' => 'pages#foldersinserters'
+   get '/logisticstracking' => 'pages#logisticstracking'
+   get '/mailmeters' => 'pages#mailmeters'
+   get '/openersjoggers' => 'pages#openersjoggers'
+   get '/postageaccounting' => 'pages#postageaccounting'
+   get '/shredders' => 'pages#shredders'
+   get '/uaa' => 'pages#uaa'
   root 'pages#home'
 
 
