@@ -31,7 +31,7 @@ class PagesController < ApplicationController
     end
     def openersjoggers
     end
-    def postageaccounting
+    def postageaccting
     end
     def shredders
     end

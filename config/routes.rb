@@ -14,7 +14,7 @@ Rails.application.routes.draw do
    get '/logisticstracking' => 'pages#logisticstracking'
    get '/mailmeters' => 'pages#mailmeters'
    get '/openersjoggers' => 'pages#openersjoggers'
-   get '/postageaccounting' => 'pages#postageaccounting'
+   get '/postageaccting' => 'pages#postageaccting'
    get '/shredders' => 'pages#shredders'
    get '/uaa' => 'pages#uaa'
   root 'pages#home'
